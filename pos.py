@@ -1,12 +1,12 @@
-a=int(input("Enter the Integer"))
+a=int(input())
 if(a>0):
-	print("positive")
+	print("Positive")
 elif(a<0):
-	print("negative")
+	print("Negative")
 elif(a==0):
-	print("zero")
+	print("Zero")
 else:
-	print("invalid data")
+	print("Invalid data")
 	
 
 		
