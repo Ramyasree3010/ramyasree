@@ -1,0 +1,9 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+c=(1,2,3,4,5)
+sum=0
+while(b>0):
+	sum+=b
+	b-=1
+print(sum)	
